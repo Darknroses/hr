@@ -41,7 +41,7 @@ addon | version | maintainers | summary
 [hr_employee_phone_extension](hr_employee_phone_extension/) | 14.0.1.0.0 |  | Employee Phone Extension
 [hr_employee_ppe](hr_employee_ppe/) | 14.0.1.0.0 | [![marcelsavegnago](https://github.com/marcelsavegnago.png?size=30px)](https://github.com/marcelsavegnago) [![eduaparicio](https://github.com/eduaparicio.png?size=30px)](https://github.com/eduaparicio) | Personal Protective Equipment (PPE) Management
 [hr_employee_relative](hr_employee_relative/) | 14.0.1.0.0 |  | Allows storing information about employee's family
-[hr_employee_service](hr_employee_service/) | 14.0.1.1.0 |  | Employee service information & duration
+[hr_employee_service](hr_employee_service/) | 14.0.1.1.1 |  | Employee service information & duration
 [hr_employee_service_contract](hr_employee_service_contract/) | 14.0.1.0.0 |  | Employee service information & duration based on employee's contracts
 [hr_employee_ssn](hr_employee_ssn/) | 14.0.1.0.0 |  | View/edit employee's SSN & SIN fields
 [hr_holidays_settings](hr_holidays_settings/) | 14.0.1.0.0 |  | Enables Settings Form for HR Holidays.
@@ -49,6 +49,7 @@ addon | version | maintainers | summary
 [hr_org_chart_overview](hr_org_chart_overview/) | 14.0.1.0.0 |  | Organizational Chart Overview
 [hr_period](hr_period/) | 14.0.1.0.0 |  | Add payroll periods
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 14.0.1.0.0 |  | This addon allows to manage employee personal equipment
+[hr_personal_equipment_request_tier_validation](hr_personal_equipment_request_tier_validation/) | 14.0.1.0.0 |  | Enables tier validation from hr.personal.equipment.request
 [hr_personal_equipment_stock](hr_personal_equipment_stock/) | 14.0.1.0.0 |  | This addon allows to integrate hr_personal_equipment_request with stock
 [hr_recruitment_notification](hr_recruitment_notification/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Configure automatic notifications for new applications
 
