@@ -21,12 +21,14 @@ Available addons
 ----------------
 addon | version | maintainers | summary
 --- | --- | --- | ---
+[gamification_badge_report](gamification_badge_report/) | 14.0.1.0.0 | [![AmmarOfficewalaSerpentcs](https://github.com/AmmarOfficewalaSerpentcs.png?size=30px)](https://github.com/AmmarOfficewalaSerpentcs) | Send Email to all the Employees with all the award given in the last week.
 [hr_branch](hr_branch/) | 14.0.1.0.0 | [![luistorresm](https://github.com/luistorresm.png?size=30px)](https://github.com/luistorresm) | Allow define company branch for employee process
 [hr_contract_currency](hr_contract_currency/) | 14.0.1.0.0 |  | Employee's contract currency
+[hr_contract_document](hr_contract_document/) | 14.0.1.0.0 |  | Documents attached to the contact
 [hr_contract_multi_job](hr_contract_multi_job/) | 14.0.1.0.0 |  | HR Contract Multi Jobs
 [hr_contract_reference](hr_contract_reference/) | 14.0.1.0.0 |  | HR Contract Reference
 [hr_contract_type](hr_contract_type/) | 14.0.1.0.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Add a Type for Contracts
-[hr_course](hr_course/) | 14.0.3.0.0 |  | This module allows your to manage employee's training courses
+[hr_course](hr_course/) | 14.0.3.0.1 |  | This module allows your to manage employee's training courses
 [hr_course_survey](hr_course_survey/) | 14.0.1.0.0 |  | Evaluate a course using a Schedule
 [hr_department_code](hr_department_code/) | 14.0.1.0.0 |  | HR department code
 [hr_employee_age](hr_employee_age/) | 14.0.1.0.0 |  | Age field for employee
@@ -53,6 +55,7 @@ addon | version | maintainers | summary
 [hr_personal_equipment_request_tier_validation](hr_personal_equipment_request_tier_validation/) | 14.0.1.0.0 |  | Enables tier validation from hr.personal.equipment.request
 [hr_personal_equipment_stock](hr_personal_equipment_stock/) | 14.0.1.0.0 |  | This addon allows to integrate hr_personal_equipment_request with stock
 [hr_recruitment_notification](hr_recruitment_notification/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Configure automatic notifications for new applications
+[hr_worked_days_from_timesheet](hr_worked_days_from_timesheet/) | 14.0.1.0.0 |  | Adds a button to import worked days from timesheet.
 
 [//]: # (end addons)
 
