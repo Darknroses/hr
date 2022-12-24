@@ -25,6 +25,7 @@ addon | version | maintainers | summary
 [hr_branch](hr_branch/) | 14.0.1.0.0 | [![luistorresm](https://github.com/luistorresm.png?size=30px)](https://github.com/luistorresm) | Allow define company branch for employee process
 [hr_contract_currency](hr_contract_currency/) | 14.0.1.0.0 |  | Employee's contract currency
 [hr_contract_document](hr_contract_document/) | 14.0.1.0.0 |  | Documents attached to the contact
+[hr_contract_employee_calendar_planning](hr_contract_employee_calendar_planning/) | 14.0.1.0.0 |  | Hr Contract Employee Calendar Planning
 [hr_contract_multi_job](hr_contract_multi_job/) | 14.0.1.0.0 |  | HR Contract Multi Jobs
 [hr_contract_reference](hr_contract_reference/) | 14.0.1.0.0 |  | HR Contract Reference
 [hr_contract_type](hr_contract_type/) | 14.0.1.0.0 | [![etobella](https://github.com/etobella.png?size=30px)](https://github.com/etobella) | Add a Type for Contracts
@@ -33,7 +34,7 @@ addon | version | maintainers | summary
 [hr_department_code](hr_department_code/) | 14.0.1.0.0 |  | HR department code
 [hr_employee_age](hr_employee_age/) | 14.0.1.0.0 |  | Age field for employee
 [hr_employee_birth_name](hr_employee_birth_name/) | 14.0.1.0.0 |  | Employee Birth Name
-[hr_employee_calendar_planning](hr_employee_calendar_planning/) | 14.0.1.4.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Employee Calendar Planning
+[hr_employee_calendar_planning](hr_employee_calendar_planning/) | 14.0.1.5.1 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) [![pedrobaeza](https://github.com/pedrobaeza.png?size=30px)](https://github.com/pedrobaeza) | Employee Calendar Planning
 [hr_employee_digitized_signature](hr_employee_digitized_signature/) | 14.0.1.0.0 | [![newtratip](https://github.com/newtratip.png?size=30px)](https://github.com/newtratip) | Employee Digitized Signature
 [hr_employee_document](hr_employee_document/) | 14.0.1.0.0 |  | Documents attached to the employee profile
 [hr_employee_firstname](hr_employee_firstname/) | 14.0.3.0.0 |  | Adds First Name to Employee
@@ -54,6 +55,7 @@ addon | version | maintainers | summary
 [hr_personal_equipment_request](hr_personal_equipment_request/) | 14.0.1.0.0 |  | This addon allows to manage employee personal equipment
 [hr_personal_equipment_request_tier_validation](hr_personal_equipment_request_tier_validation/) | 14.0.1.0.0 |  | Enables tier validation from hr.personal.equipment.request
 [hr_personal_equipment_stock](hr_personal_equipment_stock/) | 14.0.1.0.0 |  | This addon allows to integrate hr_personal_equipment_request with stock
+[hr_personal_equipment_variant_configurator](hr_personal_equipment_variant_configurator/) | 14.0.1.0.0 |  | Manage variants of personal equipment
 [hr_recruitment_notification](hr_recruitment_notification/) | 14.0.1.0.0 | [![joao-p-marques](https://github.com/joao-p-marques.png?size=30px)](https://github.com/joao-p-marques) | Configure automatic notifications for new applications
 [hr_worked_days_from_timesheet](hr_worked_days_from_timesheet/) | 14.0.1.0.0 |  | Adds a button to import worked days from timesheet.
 
