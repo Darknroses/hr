@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Odoo Server 14.0\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2022-12-23 19:44+0000\n"
+"PO-Revision-Date: 2023-01-03 12:51+0000\n"
 "Last-Translator: Francesco Foresti <francesco.foresti@ooops404.com>\n"
 "Language-Team: none\n"
 "Language: it\n"
@@ -50,7 +50,7 @@ msgstr "Assente"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_needaction
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_needaction
 msgid "Action Needed"
-msgstr "Azione Richiesta"
+msgstr "Azione richiesta"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_attendee__active
@@ -72,7 +72,7 @@ msgstr "Assegna partecipanti"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_attachment_count
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_attachment_count
 msgid "Attachment Count"
-msgstr "Numero Allegati"
+msgstr "Numero allegati"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__attendant_ids
@@ -332,19 +332,19 @@ msgstr "Non superato"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_follower_ids
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_follower_ids
 msgid "Followers"
-msgstr "Seguaci"
+msgstr "Seguito da"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_channel_ids
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_channel_ids
 msgid "Followers (Channels)"
-msgstr "Followers (Canali)"
+msgstr "Seguito da (Canali)"
 
 #. module: hr_course
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_partner_ids
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_partner_ids
 msgid "Followers (Partners)"
-msgstr "Followers (Clienti)"
+msgstr "Seguito da (Partners)"
 
 #. module: hr_course
 #: model:ir.actions.server,name:hr_course.ir_cron_post_wip_ir_actions_server
@@ -375,7 +375,7 @@ msgstr "ID"
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__message_needaction
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__message_unread
 msgid "If checked, new messages require your attention."
-msgstr "Se selezionato, nuovi messaggi richiedono la tua attenzione."
+msgstr "Se selezionata, nuovi messaggi richiedono attenzione."
 
 #. module: hr_course
 #: model:ir.model.fields,help:hr_course.field_hr_course__message_has_error
@@ -383,7 +383,7 @@ msgstr "Se selezionato, nuovi messaggi richiedono la tua attenzione."
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__message_has_error
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__message_has_sms_error
 msgid "If checked, some messages have a delivery error."
-msgstr "Se selezionato, nuovi messaggi richiedono la tua attenzione."
+msgstr "Se selezionata, alcuni messaggi hanno un errore di consegna."
 
 #. module: hr_course
 #: model:ir.model.fields.selection,name:hr_course.selection__hr_course_schedule__state__in_progress
@@ -544,7 +544,7 @@ msgstr "Risultato"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__message_has_sms_error
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__message_has_sms_error
 msgid "SMS Delivery error"
-msgstr "Errore di consegna SMS"
+msgstr "Errore consegna SMS"
 
 #. module: hr_course
 #: model_terms:ir.ui.view,arch_db:hr_course.hr_course_form_view
@@ -611,13 +611,13 @@ msgstr "Partecipanti in attesa"
 #: model:ir.model.fields,field_description:hr_course.field_hr_course__website_message_ids
 #: model:ir.model.fields,field_description:hr_course.field_hr_course_schedule__website_message_ids
 msgid "Website Messages"
-msgstr "Messaggi sito"
+msgstr "Messaggi sito web"
 
 #. module: hr_course
 #: model:ir.model.fields,help:hr_course.field_hr_course__website_message_ids
 #: model:ir.model.fields,help:hr_course.field_hr_course_schedule__website_message_ids
 msgid "Website communication history"
-msgstr "Cronologia delle comunicazioni del sito web"
+msgstr "Cronologia comunicazioni sito web"
 
 #. module: hr_course
 #: code:addons/hr_course/models/hr_course_schedule.py:0
